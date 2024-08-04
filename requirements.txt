@@ -1,0 +1,4 @@
+qunicorn
+flask==2.2.5
+pandas==2.1.4
+scikit-learn==1.2.2
